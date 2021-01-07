@@ -1,0 +1,12 @@
+Student Info
+Bob,Dylan,CSE,6311234567
+MiniStudentCourseInfo
+null
+Student Info
+Maria,Charlie,ENG,6311234567
+MiniStudentCourseInfo
+ENG101,3,NO GRADE,TO TAKE
+Student Info
+James,Peter,MAT,6311234567
+MiniStudentCourseInfo
+COL101,3,A,TAKEN,MAT141,4,A,TAKEN

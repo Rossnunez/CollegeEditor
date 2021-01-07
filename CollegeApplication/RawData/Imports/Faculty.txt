@@ -1,0 +1,12 @@
+Faculty Info
+Jones,Dill,PROF,100000,6311234567
+MiniFacultyCourseInfo
+null
+Faculty Info
+Henery,Welch,INSTRUCTOR,50555,6311234567
+MiniFacultyCourseInfo
+CSE110,3,TEACHING
+Faculty Info
+Emily,Lauer,ASSISTANT_PROF,78000,6311234567
+MiniFacultyCourseInfo
+ENG101,3,TEACHING,ENG102,3,TAUGHT,ENG205,3,TEACHING
